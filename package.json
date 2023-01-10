@@ -2,7 +2,7 @@
   "name": "firestore_invalid_data",
   "author": "moga",
   "dependencies": {
-    "firebase-admin": "9.0.0"
+    "firebase-admin": "11.4.1"
   },
   "devDependencies": {
     "@firebase/testing": "^0.20.9",
